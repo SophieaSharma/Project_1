@@ -6,7 +6,7 @@
     height:221px;
 }
 .column {
-    display: inline-block;
+    float: left;
     width: 33%;
 }
 p{

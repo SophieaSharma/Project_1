@@ -6,11 +6,11 @@
     height:221px;
 }
 .column {
-    float: left;
+    display: inline-block;
     width: 33%;
 }
 p{
     text-align: left;
     font-size: 23px;
-    color: #2a00ff;
+    color: #020e38;
 }
